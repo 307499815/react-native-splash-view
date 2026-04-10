@@ -17,7 +17,7 @@ A lightweight and customizable splash screen module for React Native.
 ---
 ### Demo Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7OAoN9VlYCg/0.jpg)](https://www.youtube.com/watch?v=7OAoN9VlYCg)
+[![IMAGE ALT TEXT HERE](https://i.ibb.co/Fq7Fnk0Y/React-Native-splash-screen-library.png)](https://www.youtube.com/watch?v=7OAoN9VlYCg)
 
 ---
 
