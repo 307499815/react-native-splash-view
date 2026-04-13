@@ -70,9 +70,10 @@ object SplashView {
       try {
         splashDialog?.let { dialog ->
           val decorView = dialog.window?.decorView
-
-          if (dialog.isShowing && decorView?.isAttachedToWindow == true) {
+          
+          if (dialog.isShowing) {
             dialog.dismiss()
+            decorView?.invalidate()
           }
         }
       } catch (e: Exception) {
