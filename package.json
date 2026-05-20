@@ -1,6 +1,7 @@
 {
   "name": "react-native-splash-view",
   "version": "0.0.21",
+  "private": true,
   "description": "A lightweight splash screen library for React Native.",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
